@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+A branch is a copy of an existing repository which allows you to work on features parallel to the existing repository. The repository you have "branched" from will remain unchanged by editing the new branch files.
+ 
